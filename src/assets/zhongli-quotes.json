@@ -1,0 +1,252 @@
+[
+  {
+    "name": "Hello",
+    "quote": "A new contract? Okay. I'm still on leave, but I can accompany you for a while. What name should I use on the contract? I have a great many names, though when on leave... I tend to go by Zhongli. And you, Traveler? What name will you be signing on this contract?",
+    "img": "https://i.imgur.com/SmqMMl3.jpeg"
+  },
+  {
+    "name": "Chat: Journeys",
+    "quote": "Every journey has its final day. Don't rush.",
+    "img": "https://i.imgur.com/LidygD0.jpeg"
+  },
+  {
+    "name": "Chat: Tours",
+    "quote": "Where do you want to go next? If you'd like to see Liyue's tourist spots, I have a few references.",
+    "img": "https://i.imgur.com/i7AAQ3d.jpeg"
+  },
+  {
+    "name": "Chat: Liyue",
+    "quote": "Boats are made for transferring commodities back and forth, and those that come across Liyue tend to stay a while, so it is where many things come to settle.",
+    "img": "https://i.imgur.com/pS7GAhu.jpeg"
+  },
+  {
+    "name": "Chat: Reminiscing",
+    "quote": "Osmanthus wine tastes the same as I remember... But where are those who share the memory?",
+    "img": "https://i.imgur.com/inTiusj.jpeg"
+  },
+  {
+    "name": "After The Rain",
+    "quote": "Violetgrass is a plant that enjoys a moist environment and is best picked after it rains. If you should choose to pick any, be sure to store them appropriately.",
+    "img": "https://i.imgur.com/PY1YcDf.jpeg"
+  },
+  {
+    "name": "When It Snows",
+    "quote": " We should look for a place to take shelter. I'll be fine, but we don't want you catching a cold.",
+    "img": "https://i.imgur.com/T067Xg4.jpeg"
+  },
+  {
+    "name": "Chat: Liyue",
+    "quote": "Boats are made for transferring commodities back and forth, and those that come across Liyue tend to stay a while, so it is where many things come to settle.",
+    "img": "https://i.imgur.com/6pToPbX.jpeg"
+  },
+  {
+    "name": "When the Wind Is Blowing",
+    "quote": "This weather is no good for being on vacation. We should go and take in an opera.",
+    "img": "https://i.imgur.com/XvnyZV6.jpeg"
+  },
+  {
+    "name": "Good Morning",
+    "quote": "I hope today too shall be prosperous.",
+    "img": "https://i.imgur.com/MxlMZkn.jpeg"
+  },
+  {
+    "name": "Good Afternoon",
+    "quote": "Want a quick meal to pick us back up? I know a good place in Chihu Rock.",
+    "img": "https://i.imgur.com/C56Ls1e.jpeg"
+  },
+  {
+    "name": "Good Evening",
+    "quote": "By this time of night, we will have already missed Ms. Yun's play, but Liyue is full of interesting places to explore, even at night.",
+    "img": "https://i.imgur.com/IdtRULu.jpeg"
+  },
+  {
+    "name": "Good Night",
+    "quote": "The market is closed and the port has settled. Go get some rest.",
+    "img": "https://i.imgur.com/79Ijl4j.jpeg"
+  },
+  {
+    "name": "About Zhongli",
+    "quote": "Nothing can be accomplished without rules or standards. No matter if it is mortals or adepti, everyone has their place. This rule keeps Liyue in peace.",
+    "img": "https://i.imgur.com/TcjsUG4.jpeg"
+  },
+  {
+    "name": "About Us: Gold",
+    "quote": "Gold is Liyue's treasure. It is the blood that runs through her heart. As for whether your own heart shines like gold — we will have to wait and see.",
+    "img": "https://i.imgur.com/wd2RSEb.jpeg"
+  },
+  {
+    "name": "About Us: Contracts",
+    "quote": "You and I have a contract, so feel free to discuss anything at all within the scope of said contract.",
+    "img": "https://i.imgur.com/Blkhch9.jpeg"
+  },
+  {
+    "name": "About Us: Fairness",
+    "quote": "We can discuss matters that fall outside of our contract too. After all, I have been on this land for a time, and have come to know a thing or two. Of course, I do hope you can do some things for me as well. That would only be fair.",
+    "img": "https://i.imgur.com/QUBSiDC.jpeg"
+  },
+  {
+    "name": "About Us: Confusion",
+    "quote": "Contracts cannot be used to define friendship, nor measure sentiment. So just what can we use to measure the weight of our emotions? Do you know the answer, friend?",
+    "img": "https://i.imgur.com/E5QhfiS.jpeg"
+  },
+  {
+    "name": "About The Vision",
+    "quote": "Visions... are also a type of contract. You should know that all power comes at a price. For every bit of power you gain, so too do you gain more responsibility.",
+    "img": "https://i.imgur.com/tFy0aYu.jpeg"
+  },
+  {
+    "name": "Something To Share",
+    "quote": "Trade relies on both contracts and fairness. There is one thing you must never forget when making and abiding by a contract: if fairness is lost, then the contract shall become proof of one's deception.",
+    "img": "https://i.imgur.com/usGRn9K.jpeg"
+  },
+  {
+    "name": "Interesting Things",
+    "quote": "If you're heading to Jueyun Karst, please bring me back a bunch of Qingxin. Just one bunch is enough. Travel expenses... Ah, I almost forgot, during the effective period of our contract, travel expenses are to be paid for by yourself. Sorry to bother you.",
+    "img": "https://i.imgur.com/hWAPf6C.png"
+  },
+  {
+    "name": "About Xiao",
+    "quote": "You speak of the young adeptus of Guili Plains... *sigh* Still fulfilling his duty to this very day. Please give this Remedium Tertiorum to him on my behalf. Oh, yes... be sure not to let Paimon eat them. Nothing of this world can withstand the power of this medicine.",
+    "img": "https://i.imgur.com/a0Skhlg.jpeg"
+  },
+  {
+    "name": "About Venti",
+    "quote": "*sniff* Tsk... It reeks of wine. That bard has just been through here, hasn't he? That drunkard is a disgrace to the arts. Oh... Has he tricked you into getting drunk? You're slurring a little. Wait a moment, I'll brew a pot of sobering tea. It'll be ready in only six hours, so just wait a moment.",
+    "img": "https://i.imgur.com/e7YHOVE.jpeg"
+  },
+  {
+    "name": "About Ningguang",
+    "quote": "Despite the multitude of affairs she deals with in a day, Ningguang always continues to press on. A rare gem indeed. I'm reminded of the time that she used to walk barefoot from Yaoguang Shoal to the south wharf, trying to sell her wares as she went. Time is cruel to humans.",
+    "img": "https://i.imgur.com/bvYqbJO.jpeg"
+  },
+  {
+    "name": "About Hu Tao",
+    "quote": "The current overseer of the funeral parlor? Ahem. I cannot deal with that child.",
+    "img": "https://i.imgur.com/U2XUABH.jpeg"
+  },
+  {
+    "name": "About Tartaglia: Drinks",
+    "quote": "It's said that Childe and his reputation have yet again stirred up waves among the inner ranks of the Fatui. Knowing his type, he will be sure to swiftly depose anyone who dares to challenge his actions. Hmm... Come to think of it, there will be a lot of interesting news to be heard the next time we gather for drinks. Care to join me when the time comes, Traveler?",
+    "img": "https://i.imgur.com/lzxgOAu.jpeg"
+  },
+  {
+    "name": "About Ganyu",
+    "quote": "Liyue's prosperity has not been merely built on Rex Lapis' oracles or wisdom. It is also thanks to the countless servants of the Geo Archon who have honored their end of the contract. Of them, Ganyu is the one who has served for the longest time. If you want to know about her past... You should ask her about it. I fear my wording would not be delicate enough to receive her approval.",
+    "img": "https://i.imgur.com/qpQ4846.jpeg"
+  },
+  {
+    "name": "About Keqing",
+    "quote": "She is the most impious of the Qixing — but I actually find the conviction of such people quite endearing. The only reason I was able to consider taking a step back from such overarching management of Liyue was because there are people like her. People who speak up when they believe themselves to be right, and then go and do something decisive about it.",
+    "img": "https://i.imgur.com/qMiHQ8z.jpeg"
+  },
+  {
+    "name": "About Yanfei",
+    "quote": "Despite never having signed a contract with me, she upholds order within many strata of Liyue society in her own way, dispelling misconceptions and correcting biases... Should her father one day return from his travels, I imagine that he would be even more delighted than I.",
+    "img": "https://i.imgur.com/ZeEgZPK.jpeg"
+  },
+  {
+    "name": "About Baal",
+    "quote": "Time tempers all volition. Yet she would give up everyone for her beliefs. Perhaps it is for this very reason that she has come to where she stands today... Should the chance come by me, I too would like to learn of the Eternity for which she so earnestly endeavors.",
+    "img": "https://i.imgur.com/sgEyQYo.jpeg"
+  },
+  {
+    "name": "About Buer",
+    "quote": "As well as ruling over all of Sumeru, the God of Wisdom, Buer, has a duty to guard Irminsul. Only one who possesses great wisdom could hope to shoulder these responsibilities. All life in Teyvat owes her gratitude for saving Irminsul.",
+    "img": "https://i.imgur.com/cavCnVU.jpeg"
+  },
+  {
+    "name": "About Furina",
+    "quote": "She made a contract with her own self to save the nation, strictly adhered to it for over five centuries without once wavering, and even fooled the Heavenly Principles in the end... I have great respect for approaches to justice that place exacting demands not only on others, but also on the self. Though her divinity has vanished and the throne of the Archon is no more, Furina will go down in Fontaine's history as a God of Justice worthy of recognition.",
+    "img": "https://i.imgur.com/bbAzkA6.jpeg"
+  },
+  {
+    "name": "About Xianyun",
+    "quote": "I hear many merchants of Liyue tell tales of a Ms. Xianyun. By most accounts, she appears proud and taciturn upon first glance, yet in conversation, people find her to be forthright and fair-minded, and they are pleased to make her acquaintance. I am glad to hear this. But... I have also heard a great many accounts lauding her readiness to part with large sums of Mora...",
+    "img": "https://i.imgur.com/tYL3fLR.jpeg"
+  },
+  {
+    "name": "More About Zhongli: I",
+    "quote": "Why is it that once you finally get a break, rather than taking a rest, you instead come to me? Is it that you want to hear one of my stories?",
+    "img": "https://i.imgur.com/mcsIuXG.jpeg"
+  },
+  {
+    "name": "More About Zhongli: II",
+    "quote": "Have you heard of the origin of the Blackcliff Forge? In the past, they would mine the ore veins of Mt. Tianheng, and then replace the cavities with factory equipment. Tunnels run in all directions throughout the mountain — some even run to the ruins deep within the earth. I doubt there is a person today who could map out all the tunnels.",
+    "img": "https://i.imgur.com/MgCsaDF.jpeg"
+  },
+  {
+    "name": "More About Zhongli: III",
+    "quote": "Have you heard of the origins of the Lantern Rite? In a war, long ago, the people of Liyue would release lanterns to remind their soldiers of the way home, and to never lose sight of themselves. Though in this day and age, I doubt there are any that remember.",
+    "img": "https://i.imgur.com/mX3cTEO.jpeg"
+  },
+  {
+    "name": "More About Zhongli: IV",
+    "quote": "The God of Contracts. Have you heard of him? He has an impressive memory. He remembers the name of every person he comes across, and the date that every ship in Liyue sets sail. After all, only in being able to do so can he memorize all of the contracts he holds. With that said, not every memory is a happy one...",
+    "img": "https://i.imgur.com/6n1DHYr.jpeg"
+  },
+  {
+    "name": "More About Zhongli: V",
+    "quote": "For those that live too long, the friends of days gone by and scenes from their adventures live on in their memories. As such I have no regrets in meeting you, friend. Should the day ever come that we are not together, you will continue to shine like gold in my memories.",
+    "img": "https://i.imgur.com/1yseQ1i.jpeg"
+  },
+  {
+    "name": "Zhongli's Hobbies",
+    "quote": "I enjoy partaking in walks through the city — when time permits. I find it very calming. Yes... Just when did this feeling begin...?",
+    "img": "https://i.imgur.com/GKR38ey.jpeg"
+  },
+  {
+    "name": "Zhongli's Troubles",
+    "quote": " To get people to abide by a contract and act in accordance with the guidelines set out within is simply to ask them to respect the concept of fairness. It is not a large request. How are there those who still do not understand such simplicity?",
+    "img": "https://i.imgur.com/2Nu1Z6x.jpeg"
+  },
+  {
+    "name": "Favorite Food",
+    "quote": "There was once a drink I used to enjoy with friends — long ago... Is it because the climate has changed? A shame I will never be able to relish in its smooth flavor again.",
+    "img": "https://i.imgur.com/bB5uAhv.jpeg"
+  },
+  {
+    "name": "Least Favorite Food",
+    "quote": "I don't like seafood. Just seeing it reminds me of that... slimy texture, and that scent that just won't wash off. As for why I hate it... *sigh* It's a long story, so let's just say my memory is a little too good.",
+    "img": "https://i.imgur.com/aPfNs8t.jpeg"
+  },
+  {
+    "name": "Receiving A Gift: I",
+    "quote": "The finest ingredients cooked with true expertise. This is no small feat.",
+    "img": "https://i.imgur.com/GajYcnk.jpeg"
+  },
+  {
+    "name": "Receiving A Gift: II",
+    "quote": " The art of gastronomy is a fascinating one. That it appeals to you comes as no surprise.",
+    "img": "https://i.imgur.com/WLZgIf9.jpeg"
+  },
+  {
+    "name": "Receiving A Gift: III",
+    "quote": " Since you seem to have some time on your hands, why don't we find a quiet place and I'll share one of my stories with you.",
+    "img": "https://i.imgur.com/T9iqoSw.jpeg"
+  },
+  {
+    "name": "Birthday",
+    "quote": "Happy birthday. This is a dried Glaze Lily that came into bloom on the day of your birth. Long ago, the people of Liyue would say that this flower blooms bearing the weight of the beautiful memories and prayers of the land. I believe this to have been applied on the day you were born as well.",
+    "img": "https://i.imgur.com/vZuUDKH.jpeg"
+  },
+  {
+    "name": "Feelings About Ascension: Intro",
+    "quote": "It seems my strength is returning. Not a lot, but enough.",
+    "img": "https://i.imgur.com/iUY5sgY.jpeg"
+  },
+  {
+    "name": "Feelings About Ascension: Building Up",
+    "quote": "My power is growing, and so with it grows the burden on my body... I'm okay. My structure is not the same as that of normal people. Please, do not worry yourself.",
+    "img": "https://i.imgur.com/iYPXJef.jpeg"
+  },
+  {
+    "name": "Feelings About Ascension: Climax",
+    "quote": "I see. Using a Vision harnesses elements. As far as the common folk are concerned, this is no small feat. So... back then... they were aware of this as they stood beside me...",
+    "img": "https://i.imgur.com/RZMvV7c.jpeg"
+  },
+  {
+    "name": "Feelings About Ascension: Conclusion",
+    "quote": "After letting go of my Gnosis, I never expected to see a day like this again. Thank you, friend. Ah, yes, I have a new contract here. Care to take a look at it together?",
+    "img": "https://i.imgur.com/ccUWPdE.jpeg"
+  }
+]

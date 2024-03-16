@@ -1,0 +1,127 @@
+[
+  {
+    "name": "Elemental Skill",
+    "quote": "Rise!",
+    "img": "https://i.imgur.com/sqpIVm0.jpeg"
+  },
+  {
+    "name": "Elemental Skill",
+    "quote": "Quake!",
+    "img": "https://i.imgur.com/rwS3Ghg.jpeg"
+  },
+  {
+    "name": "Elemental Skill",
+    "quote": "Crumble!",
+    "img": "https://i.imgur.com/YhdTVJJ.jpeg"
+  },
+  {
+    "name": "Elemental Skill",
+    "quote": "Gather.",
+    "img": "https://i.imgur.com/KuyFnP0.png"
+  },
+  {
+    "name": "Elemental Skill",
+    "quote": "Stabilize.",
+    "img": "https://i.imgur.com/Izx7NXm.jpeg"
+  },
+  {
+    "name": "Elemental Skill",
+    "quote": "Solidify.",
+    "img": "https://i.imgur.com/lpOuvpm.jpeg"
+  },
+  {
+    "name": "Elemental Burst",
+    "quote": "Order guide you.",
+    "img": "https://i.imgur.com/toBqefp.jpeg"
+  },
+  {
+    "name": "Elemental Burst",
+    "quote": "This is order.",
+    "img": "https://i.imgur.com/5ncI2Ao.jpeg"
+  },
+  {
+    "name": "Elemental Burst",
+    "quote": "I will have order!",
+    "img": "https://i.imgur.com/fYwGwXF.jpeg"
+  },
+  {
+    "name": "Opening Treasure Chest",
+    "quote": "One man's stone is another man's gem...",
+    "img": "https://i.imgur.com/gDJKEGJ.jpeg"
+  },
+  {
+    "name": "Opening Treasure Chest",
+    "quote": "Unsolicited...and all the more valuable for it.",
+    "img": "https://i.imgur.com/Ng1Wp7w.jpeg"
+  },
+  {
+    "name": "Opening Treasure Chest",
+    "quote": "Certainly worth the extra mile.",
+    "img": "https://i.imgur.com/ObW1lce.jpeg"
+  },
+  {
+    "name": "Low HP",
+    "quote": "I see your power.",
+    "img": "https://i.imgur.com/oQpDsJy.jpeg"
+  },
+  {
+    "name": "Low HP",
+    "quote": "Ha, this is getting interesting.",
+    "img": "https://i.imgur.com/2axW4Mm.jpeg"
+  },
+  {
+    "name": "Low HP",
+    "quote": "Emergency countermeasures aren't my thing.",
+    "img": "https://i.imgur.com/vMbaRZO.jpeg"
+  },
+  {
+    "name": "Ally At Low HP",
+    "quote": "Don't try to rush your enemy.",
+    "img": "https://i.imgur.com/TfqF5kQ.jpeg"
+  },
+  {
+    "name": "Ally At Low HP",
+    "quote": "Take a rest. Leave it to me.",
+    "img": "https://i.imgur.com/D8wQr4b.jpeg"
+  },
+  {
+    "name": "Fallen",
+    "quote": "Ugh...I'm feeling a little...off...",
+    "img": "https://i.imgur.com/lOxToLk.jpeg"
+  },
+  {
+    "name": "Fallen",
+    "quote": "You shouldn't see me like this...",
+    "img": "https://i.imgur.com/SzysJn5.jpeg"
+  },
+  {
+    "name": "Fallen",
+    "quote": "Even bedrock can be turned to dust...",
+    "img": "https://i.imgur.com/1ckgmfA.jpeg"
+  },
+  {
+    "name": "Heavy Hit Taken",
+    "quote": "Careless...",
+    "img": "https://i.imgur.com/3yJGjc0.jpeg"
+  },
+  {
+    "name": "Heavy Hit Taken",
+    "quote": "Nothing to fear.",
+    "img": "https://i.imgur.com/88wYaOH.jpeg"
+  },
+  {
+    "name": "Joining Party",
+    "quote": "Sure.",
+    "img": "https://i.imgur.com/3HSDlQr.jpeg"
+  },
+  {
+    "name": "Joining Party",
+    "quote": "A walk would be nice.",
+    "img": "https://i.imgur.com/17QZkXw.jpeg"
+  },
+  {
+    "name": "Joining Party",
+    "quote": "What shall we do?",
+    "img": "https://i.imgur.com/nQ0jzJA.jpeg"
+  }
+]
