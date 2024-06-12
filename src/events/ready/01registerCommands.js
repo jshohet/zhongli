@@ -8,7 +8,7 @@ module.exports = async (client) => {
     const localCommands = getLocalCommands();
     const applicationCommands = await getApplicationCommands(
       client,
-      process.env.TEST_SERVER
+      process.env.AMBRO_SERVER
     );
 
     for (const localCommand of localCommands) {
